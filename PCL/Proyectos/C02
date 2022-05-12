@@ -1,0 +1,2 @@
+echo hola que tal > saludo
+cat < saludo > /dev/C02
